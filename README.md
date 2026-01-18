@@ -24,7 +24,7 @@ A powerful Python automation tool that scrapes TikTok videos based on hashtags, 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/yourusername/tiktok-auto-compiler.git](https://github.com/yourusername/tiktok-auto-compiler.git)
+    git clone [https://github.com/Gh0styTongue/tiktok-auto-compiler.git](https://github.com/Gh0styTongue/tiktok-auto-compiler.git)
     cd tiktok-auto-compiler
     ```
 
